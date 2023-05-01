@@ -4,7 +4,7 @@ Open Source Bot Telegram By @RasiTechChannel1
 # Dokumentasi dan Tutorial Bot Telegram Sederhana
 Bot Telegram ini dibuat dengan menggunakan bahasa pemrograman PHP dan menggunakan API Telegram. Bot ini memiliki beberapa fitur sederhana seperti join dan leave group, menampilkan ID pengguna, dan membanned pengguna. Bot ini dibuat untuk memudahkan pengguna dalam mengelola group Telegram.
 
-##Persyaratan
+## Persyaratan
 Sebelum menggunakan bot ini, pastikan kamu memenuhi persyaratan sebagai berikut:
 
 - Memiliki akun Telegram aktif
