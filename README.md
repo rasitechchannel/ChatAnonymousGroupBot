@@ -24,7 +24,7 @@ Setelah itu, bot akan menampilkan pesan sambutan. Selanjutnya, kamu bisa menggun
 
 Untuk menggunakan perintah, cukup ketikkan perintah di kolom chat dan kirimkan pesan. Bot akan langsung memproses perintah tersebut dan memberikan feedback kepada pengguna.
 Mengakses Kode Sumber
-Kode sumber untuk bot Telegram ini bisa kamu akses di https://github.com/username/nama-repo. Silakan download atau fork kode sumber ini untuk melakukan modifikasi atau membangun bot Telegram baru.
+Kode sumber untuk bot Telegram ini bisa kamu akses di [Repository Open Source Bot](https://github.com/rasitechchannel/ChatAnonymousGroupBot/). Silakan download atau fork kode sumber ini untuk melakukan modifikasi atau membangun bot Telegram baru.
 
 ## Catatan Penting
 Bot ini bersifat open-source, silakan gunakan dan modifikasi kode sumber ini sesuai kebutuhan.
