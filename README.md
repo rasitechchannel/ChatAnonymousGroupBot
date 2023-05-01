@@ -14,7 +14,7 @@ Sebelum menggunakan bot ini, pastikan kamu memenuhi persyaratan sebagai berikut:
 ## Cara Menggunakan Bot
 Berikut adalah cara menggunakan bot Telegram ini:
 
-## Pertama, tambahkan bot ini ke dalam group Telegram. Caranya dengan mencari nama bot pada aplikasi Telegram dan klik / tekan tombol start.
+Pertama, tambahkan bot ini ke dalam group Telegram. Caranya dengan mencari nama bot pada aplikasi Telegram dan klik / tekan tombol start.
 Setelah itu, bot akan menampilkan pesan sambutan. Selanjutnya, kamu bisa menggunakan perintah-perintah yang tersedia. Berikut daftar perintah yang tersedia:
 - /id: perintah untuk menampilkan ID pengguna
 - /join: perintah untuk bergabung kembali ke group setelah sebelumnya meninggalkan group
