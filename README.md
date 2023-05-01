@@ -21,6 +21,7 @@ Setelah itu, bot akan menampilkan pesan sambutan. Selanjutnya, kamu bisa menggun
 - /stop: perintah untuk meninggalkan group
 - /ban: perintah untuk mem-banned pengguna. Perintah ini hanya bisa digunakan oleh owner bot.
 - /unban: perintah untuk menghapus banned pengguna. Perintah ini hanya bisa digunakan oleh owner bot.
+
 Untuk menggunakan perintah, cukup ketikkan perintah di kolom chat dan kirimkan pesan. Bot akan langsung memproses perintah tersebut dan memberikan feedback kepada pengguna.
 Mengakses Kode Sumber
 Kode sumber untuk bot Telegram ini bisa kamu akses di https://github.com/username/nama-repo. Silakan download atau fork kode sumber ini untuk melakukan modifikasi atau membangun bot Telegram baru.
